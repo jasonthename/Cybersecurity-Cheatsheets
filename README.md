@@ -1,6 +1,8 @@
 # Cybersecurity-Cheatsheets
 A collection of Cybersecurity cheatsheets for Recon, Nmap, Censys, Cryptography collected from multiple authors on Cheatography under the Creative Commons License BY-NC-SA 2.0 UK.
 
+**_Access the /PDFs folder to see the Cheatsheet documents._**
+
 # Sample list:
 
 - OpenSSL Cheat Sheet by albertx 
